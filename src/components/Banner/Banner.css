@@ -1,0 +1,15 @@
+.banner-container{
+    /* border:1px solid red; */
+    height: 250px;
+    margin: 0%;
+}
+.banner-textDiv{
+    /* width: 30%;
+    height:100px; */
+    /* border:2px solid blue; */
+    /* background-color: rgb(20, 136, 237); */
+}
+.but{
+    width: 80px;
+    
+}
